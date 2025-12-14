@@ -31,9 +31,6 @@ The dataset used for this analysis is the famous **Cookie Cats** A/B testing dat
 ![02](assets/02.png)
 ![03](assets/03.png)
 
-### Engagement Distribution
-![Game Rounds Distribution](assets/distribution.png)
-
 ## 🖥️ How to Run Locally
 1. Clone the repo:
    ```bash
