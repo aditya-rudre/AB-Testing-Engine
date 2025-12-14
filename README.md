@@ -24,6 +24,16 @@ The dataset used for this analysis is the famous **Cookie Cats** A/B testing dat
 * **Statistical Rigor:** Implements **Bootstrapping (1000 iterations)** to visualize probability density distributions.
 * **Interactive Dashboard:** Built with **Streamlit** to allow non-technical stakeholders to upload data and view results instantly.
 
+## 📸 Dashboard Preview
+
+![Dashboard](assets/dashboard.png)
+![01](assets/01.png)
+![02](assets/02.png)
+![03](assets/03.png)
+
+### Engagement Distribution
+![Game Rounds Distribution](assets/distribution.png)
+
 ## 🖥️ How to Run Locally
 1. Clone the repo:
    ```bash

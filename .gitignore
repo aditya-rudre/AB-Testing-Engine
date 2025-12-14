@@ -1,19 +1,7 @@
-# Python junk
-__pycache__/
-*.py[cod]
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Environments
-.env
-venv/
-env/
-
-# IDE settings
-.vscode/
-.idea/
-
-# Dataset
-cookie_cats.csv
-*.csv
+echo "# AB-Testing-Engine" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/aditya-rudre/AB-Testing-Engine.git
+git push -u origin main
